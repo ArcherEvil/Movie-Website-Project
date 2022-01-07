@@ -1,0 +1,26 @@
+C:\Users\Luis A. Viegas\Documents\Arquivos\Code Projects\Movie WebApp\Movie WebApp\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Luis A. Viegas\Documents\Arquivos\Code Projects\Movie WebApp\Movie WebApp\bin\Debug\net6.0\appsettings.json
+C:\Users\Luis A. Viegas\Documents\Arquivos\Code Projects\Movie WebApp\Movie WebApp\bin\Debug\net6.0\Movie WebApp.staticwebassets.runtime.json
+C:\Users\Luis A. Viegas\Documents\Arquivos\Code Projects\Movie WebApp\Movie WebApp\bin\Debug\net6.0\Movie WebApp.exe
+C:\Users\Luis A. Viegas\Documents\Arquivos\Code Projects\Movie WebApp\Movie WebApp\bin\Debug\net6.0\Movie WebApp.deps.json
+C:\Users\Luis A. Viegas\Documents\Arquivos\Code Projects\Movie WebApp\Movie WebApp\bin\Debug\net6.0\Movie WebApp.runtimeconfig.json
+C:\Users\Luis A. Viegas\Documents\Arquivos\Code Projects\Movie WebApp\Movie WebApp\bin\Debug\net6.0\Movie WebApp.dll
+C:\Users\Luis A. Viegas\Documents\Arquivos\Code Projects\Movie WebApp\Movie WebApp\bin\Debug\net6.0\ref\Movie WebApp.dll
+C:\Users\Luis A. Viegas\Documents\Arquivos\Code Projects\Movie WebApp\Movie WebApp\bin\Debug\net6.0\Movie WebApp.pdb
+C:\Users\Luis A. Viegas\Documents\Arquivos\Code Projects\Movie WebApp\Movie WebApp\obj\Debug\net6.0\Movie WebApp.csproj.AssemblyReference.cache
+C:\Users\Luis A. Viegas\Documents\Arquivos\Code Projects\Movie WebApp\Movie WebApp\obj\Debug\net6.0\Movie WebApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luis A. Viegas\Documents\Arquivos\Code Projects\Movie WebApp\Movie WebApp\obj\Debug\net6.0\Movie WebApp.AssemblyInfoInputs.cache
+C:\Users\Luis A. Viegas\Documents\Arquivos\Code Projects\Movie WebApp\Movie WebApp\obj\Debug\net6.0\Movie WebApp.AssemblyInfo.cs
+C:\Users\Luis A. Viegas\Documents\Arquivos\Code Projects\Movie WebApp\Movie WebApp\obj\Debug\net6.0\Movie WebApp.csproj.CoreCompileInputs.cache
+C:\Users\Luis A. Viegas\Documents\Arquivos\Code Projects\Movie WebApp\Movie WebApp\obj\Debug\net6.0\Movie WebApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Luis A. Viegas\Documents\Arquivos\Code Projects\Movie WebApp\Movie WebApp\obj\Debug\net6.0\Movie WebApp.RazorAssemblyInfo.cache
+C:\Users\Luis A. Viegas\Documents\Arquivos\Code Projects\Movie WebApp\Movie WebApp\obj\Debug\net6.0\Movie WebApp.RazorAssemblyInfo.cs
+C:\Users\Luis A. Viegas\Documents\Arquivos\Code Projects\Movie WebApp\Movie WebApp\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Luis A. Viegas\Documents\Arquivos\Code Projects\Movie WebApp\Movie WebApp\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Luis A. Viegas\Documents\Arquivos\Code Projects\Movie WebApp\Movie WebApp\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Luis A. Viegas\Documents\Arquivos\Code Projects\Movie WebApp\Movie WebApp\obj\Debug\net6.0\scopedcss\bundle\Movie WebApp.styles.css
+C:\Users\Luis A. Viegas\Documents\Arquivos\Code Projects\Movie WebApp\Movie WebApp\obj\Debug\net6.0\scopedcss\projectbundle\Movie WebApp.bundle.scp.css
+C:\Users\Luis A. Viegas\Documents\Arquivos\Code Projects\Movie WebApp\Movie WebApp\obj\Debug\net6.0\Movie WebApp.dll
+C:\Users\Luis A. Viegas\Documents\Arquivos\Code Projects\Movie WebApp\Movie WebApp\obj\Debug\net6.0\ref\Movie WebApp.dll
+C:\Users\Luis A. Viegas\Documents\Arquivos\Code Projects\Movie WebApp\Movie WebApp\obj\Debug\net6.0\Movie WebApp.pdb
+C:\Users\Luis A. Viegas\Documents\Arquivos\Code Projects\Movie WebApp\Movie WebApp\obj\Debug\net6.0\Movie WebApp.genruntimeconfig.cache
